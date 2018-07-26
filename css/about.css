@@ -1,0 +1,16 @@
+#top {
+    text-align: center;
+    color: rgb(250, 244, 244);
+}
+
+body {
+    background-image: url("../assets/code-success.png");
+
+}
+
+#flower {
+    float: left;
+    size: 40%;
+    /* clip: rect (150px, 25px, 30px, 10px) */
+}
+
